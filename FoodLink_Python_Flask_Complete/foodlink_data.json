@@ -1,0 +1,177 @@
+{
+  "donations": [
+    {
+      "id": "FL-1001",
+      "donor": "Green Leaf Restaurant",
+      "food": "Vegetable Biryani",
+      "category": "Cooked Meals",
+      "type": "Vegetarian",
+      "quantity": 25,
+      "unit": "kg",
+      "servings": 100,
+      "city": "Vijayawada",
+      "address": "MG Road, Vijayawada",
+      "status": "Requested",
+      "expiry": "2026-08-12T19:08:19.438655",
+      "score": 94
+    },
+    {
+      "id": "FL-1002",
+      "donor": "Sunrise Bakery",
+      "food": "Fresh Bread & Buns",
+      "category": "Bakery",
+      "type": "Vegetarian",
+      "quantity": 12,
+      "unit": "kg",
+      "servings": 70,
+      "city": "Vijayawada",
+      "address": "Benz Circle, Vijayawada",
+      "status": "Available",
+      "expiry": "2026-08-13T01:08:19.438655",
+      "score": 91
+    },
+    {
+      "id": "FL-1003",
+      "donor": "City Caterers",
+      "food": "Rice & Dal",
+      "category": "Cooked Meals",
+      "type": "Vegetarian",
+      "quantity": 35,
+      "unit": "kg",
+      "servings": 140,
+      "city": "Guntur",
+      "address": "Lakshmipuram, Guntur",
+      "status": "Requested",
+      "expiry": "2026-08-12T17:08:19.438655",
+      "score": 88
+    },
+    {
+      "id": "FL-1004",
+      "donor": "FreshMart Supermarket",
+      "food": "Mixed Fruits",
+      "category": "Fruits",
+      "type": "Vegan",
+      "quantity": 30,
+      "unit": "kg",
+      "servings": 120,
+      "city": "Vijayawada",
+      "address": "Patamata, Vijayawada",
+      "status": "Available",
+      "expiry": "2026-08-13T11:08:19.438655",
+      "score": 86
+    },
+    {
+      "id": "FL-1005",
+      "donor": "Hotel Grand Feast",
+      "food": "Chapati & Vegetable Curry",
+      "category": "Cooked Meals",
+      "type": "Vegetarian",
+      "quantity": 18,
+      "unit": "kg",
+      "servings": 90,
+      "city": "Hyderabad",
+      "address": "Banjara Hills, Hyderabad",
+      "status": "Accepted",
+      "expiry": "2026-08-12T21:08:19.438655",
+      "score": 82
+    },
+    {
+      "id": "FL-1006",
+      "donor": "Daily Dairy",
+      "food": "Milk Packets",
+      "category": "Dairy",
+      "type": "Vegetarian",
+      "quantity": 20,
+      "unit": "litre",
+      "servings": 80,
+      "city": "Vijayawada",
+      "address": "Auto Nagar, Vijayawada",
+      "status": "Available",
+      "expiry": "2026-08-13T07:08:19.438655",
+      "score": 80
+    },
+    {
+      "id": "FL-1007",
+      "donor": "Green Basket",
+      "food": "Fresh Vegetables",
+      "category": "Vegetables",
+      "type": "Vegan",
+      "quantity": 45,
+      "unit": "kg",
+      "servings": 180,
+      "city": "Guntur",
+      "address": "Arundelpet, Guntur",
+      "status": "Picked Up",
+      "expiry": "2026-08-13T11:08:19.438655",
+      "score": 77
+    },
+    {
+      "id": "FL-1008",
+      "donor": "Campus Kitchen",
+      "food": "Curd Rice",
+      "category": "Cooked Meals",
+      "type": "Vegetarian",
+      "quantity": 15,
+      "unit": "kg",
+      "servings": 60,
+      "city": "Vijayawada",
+      "address": "University Road, Vijayawada",
+      "status": "Delivered",
+      "expiry": "2026-08-12T15:08:19.438655",
+      "score": 75
+    },
+    {
+      "id": "FL-1009",
+      "donor": "Care Cafe",
+      "food": "Veg Meals",
+      "category": "Cooked Meals",
+      "type": "Vegetarian",
+      "quantity": 22,
+      "unit": "kg",
+      "servings": 88,
+      "city": "Vijayawada",
+      "address": "Ramachandra Nagar, Vijayawada",
+      "status": "Available",
+      "expiry": "2026-08-12T23:08:19.438655",
+      "score": 73
+    },
+    {
+      "id": "FL-1010",
+      "donor": "Smart Grocers",
+      "food": "Packaged Snacks",
+      "category": "Packaged Food",
+      "type": "Vegetarian",
+      "quantity": 10,
+      "unit": "kg",
+      "servings": 100,
+      "city": "Hyderabad",
+      "address": "Kukatpally, Hyderabad",
+      "status": "Available",
+      "expiry": "2026-08-17T11:08:19.438655",
+      "score": 70
+    }
+  ],
+  "notifications": [
+    {
+      "text": "Donation FL-1001 request submitted.",
+      "time": "Just now"
+    },
+    {
+      "text": "Your donation was accepted.",
+      "time": "Today"
+    },
+    {
+      "text": "A volunteer has been assigned.",
+      "time": "Today"
+    },
+    {
+      "text": "Your donation expires soon.",
+      "time": "Today"
+    },
+    {
+      "text": "Food delivery completed.",
+      "time": "Yesterday"
+    }
+  ],
+  "ratings": []
+}
